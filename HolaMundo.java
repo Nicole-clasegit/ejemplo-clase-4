@@ -7,6 +7,10 @@ public class HolaMundo {
 		// Salida de datos por Pantalla
 		
 		String saludo = "Hola Mundo";
+		var 2 = numero1;
+		var 3 = numero2;
+		suma = numero1 + numero2;
+		print(suma)
 		
 		// String Saludo = "";
 		
