@@ -10,7 +10,7 @@ public class HolaMundo {
 		var 2 = numero1;
 		var 3 = numero2;
 		suma = numero1 + numero2;
-		print(suma)
+		system.out.println(suma)
 		
 		// String Saludo = "";
 		
